@@ -15,8 +15,8 @@
 
     - git clone https://github.com/akiko-suzuki/git-memo.git
     
-    URLは↓↓↓からコピペ
-    <img width="427" alt="スクリーンショット 2020-05-07 13 36 22" src="https://user-images.githubusercontent.com/53561761/81255229-1f0a7900-9068-11ea-8298-26a1e3c97db9.png">
+    URLは↓↓↓からコピペ<br>
+    <img width="427" alt="スクリーンショット 2020-05-07 13 36 22" src="https://user-images.githubusercontent.com/53561761/81255229-1f0a7900-9068-11ea-8298-26a1e3c97db9.png"><br>
     (実行後：Cloning into 'git-memo'...
     warning: You appear to have cloned an empty repository.
     中が空だとこうなる。)
