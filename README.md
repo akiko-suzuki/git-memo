@@ -28,8 +28,8 @@
 2. masterブランチから - git checkout -b ブランチ名　（例:create/index.html）
 3. 作成したブランチで作業
 4. - git statusでローカルの状況確認　（作成、修正したファイルが見れる）
-5. - git add 作成したファイル
-6. - git diff 作成したファイル　(差分の確認)
+5. - git diff 作成したファイル　(差分の確認)
+6. - git add 作成したファイル
 7. - git commit -m”コミットメッセージ”
 8. - git push origin 作成したブランチ名
 
@@ -40,5 +40,13 @@
 2. 作業内容や注意点を書く
 3. create pull request ポチ
 4. レビュワーの指定
+
+
+## リモートのmasterブランチにマージ
+
+1. - git checkout master
+2. - git pull origin master (他の誰かがmasterブランチを更新しているかもしれないから)
+3. - git merge 作成したブランチ
+4. - git push origin master
 
 
