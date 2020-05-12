@@ -1,18 +1,9 @@
 # git-memo
 
 
-## github(リモートリポジトリ)とローカルを同期
+## github(リモートリポジトリ)をclone
 
-1. githubと連携する新しく作ったディレクトリに移動。今回は git-memo
-
-    cd git-memo
-    
-2. ローカルリポジトリの生成
-    
-    git init
-    (実行後:Initialized empty Git repository in /Users/akiko/git-memo/.git/)
-
-3. GitHubで作成したリモートリポジトリをローカルにクローンして同期する。
+1. GitHubで作成したリモートリポジトリをローカルにクローンする。 (ソースのフォルダをつくりたいディレクトリで)
 
     git clone https://github.com/akiko-suzuki/git-memo.git
     
