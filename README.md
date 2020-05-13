@@ -41,6 +41,9 @@
 3. git merge 作成したブランチ
 4. git push origin master
 
+(pullのときコメントを求められる時の対処法　git pull --no-edit)
+(viモードの抜け方　esc :wp)
+
 
 ## ローカルブランチを削除する
 
