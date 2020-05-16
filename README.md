@@ -21,7 +21,7 @@
 3. 作成したブランチで作業
 4. git statusでローカルの状況確認　（作成、修正したファイルが見れる）
 5. git diff 作成したファイル　(差分の確認)
-6. git add 作成したファイル
+6. git add 作成したファイル　（git add -A か git add --all //変更のあったファイルすべて）
 7. git commit -m”コミットメッセージ”
 8. git push origin 作成したブランチ名
 
