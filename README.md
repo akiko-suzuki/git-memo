@@ -60,3 +60,10 @@
 
 git commit --amend "新しいコミットメッセージ"
 
+
+## いったん退避
+
+1. git stash save　（変更点を一旦退避させる）
+2. git stash list　（退避した作業の一覧をみる）
+3. git stash apply <stash名>　（退避した作業を戻す）
+4. git stash drop <stash名>　（退避した作業を消す）
